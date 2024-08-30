@@ -13,7 +13,7 @@ Este repositorio contiene el material de la materia Series de Tiempo en Finanzas
 
 | Clase | Filmina | Notebook |
 |-------|---------|----------|
-| | | |
+| 1 y 2 | [Curación + Exploración + Suavizamiento](./clases/filminas/1_y_2-Curacion_Exploracion_Suavizado_exponencial.pdf) | |
 
 ### Trabajos Prácticos
 
