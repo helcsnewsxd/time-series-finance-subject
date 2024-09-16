@@ -19,6 +19,6 @@ Este repositorio contiene el material de la materia Series de Tiempo en Finanzas
 
 ### Trabajos Prácticos
 
-| TP            | Enunciado                                          | Notebook |
-| ------------- | -------------------------------------------------- | -------- |
-| Media Materia | [Consignas](./examen/media_materia/original.ipynb) |          |
+| TP            | Enunciado                                          | Notebook                                            |
+| ------------- | -------------------------------------------------- | --------------------------------------------------- |
+| Media Materia | [Consignas](./examen/media_materia/original.ipynb) | [Solución](./examen/media_materia/desarrollo.ipynb) |
