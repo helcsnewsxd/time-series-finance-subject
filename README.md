@@ -22,4 +22,4 @@ Este repositorio contiene el material de la materia Series de Tiempo en Finanzas
 | TP            | Enunciado                                          | Notebook                                            |
 | ------------- | -------------------------------------------------- | --------------------------------------------------- |
 | Media Materia | [Consignas](./examen/media_materia/original.ipynb) | [Solución](./examen/media_materia/desarrollo.ipynb) |
-| Materia Completa | [Actividades de clase](./clases/notebook/actividades-segunda_parte/Actividades.ipynb) | [Actividades de clase](./examen/full_materia/actividades.ipynb) |
+| Materia Completa | [Actividades de clase](./clases/notebook/actividades-segunda_parte/Actividades.ipynb) y [Evaluación (GARCH)](./examen/full_materia/evaluacion-enunciado.ipynb) | [Actividades de clase](./examen/full_materia/actividades.ipynb) y [Evaluación (GARCH)](./examen/full_materia/evaluacion-desarrollo.ipynb) |
