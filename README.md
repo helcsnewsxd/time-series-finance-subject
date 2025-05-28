@@ -1,3 +1,8 @@
+> [!note]
+> This repository contains theoretical content and practical assignments for the Time Series in Finance course of the Data Science Diploma at FAMAF – Universidad Nacional de Córdoba.
+>
+> All materials are in Spanish, as they were created for academic purposes and submission.
+
 # Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones - 2024
 
 ## Series de Tiempo en Finanzas
